@@ -10,7 +10,7 @@ In a haunted house
 #This imports the library for random and I can call it whenever I want
 import random
 
-# Introduction
+# This is the introduction
 print("Welcome to the Last One Standing!")
 print("You decided to come into a haunted house with your friends.")
 print("You will choose a door and when you open that door, there will be candy, a ghost or nothing.")
